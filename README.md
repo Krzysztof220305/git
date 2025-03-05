@@ -1,1 +1,1 @@
-# git
+# gitConflicting change from branch1
